@@ -1,8 +1,32 @@
-{
-  "release": "v1.0",
-  "artifacts": [
-    { "name": "release_candidate_v1.pdf", "doi": "doi:10.5281/zenodo.XXXX", "pillars": ["Transparency","Auditability","Due Process"], "doi": "doi:10.5281/zenodo.XXXX" },
-    { "name": "starter_pack_v1.zip", "doi": "doi:10.5281/zenodo.XXXX" }
-  ],
-  "notes": "Replace DOI placeholders after Zenodo deposition."
+﻿{
+    "release":  "v1.0",
+    "artifacts":  [
+                      {
+                          "name":  "release_candidate_v1.pdf",
+                          "doi":  "doi:10.5281/zenodo.XXXX",
+                          "pillars":  [
+                                          "Transparency",
+                                          "Auditability",
+                                          "Due Process"
+                                      ]
+                      },
+                      {
+                          "name":  "starter_pack_v1.zip",
+                          "doi":  ""
+                      },
+                      {
+                          "name":  "manifest_for_release.json.template",
+                          "sha256":  "B89A4B37B3ACFAFDF498A48771F65A74D72D4A539044F2FBEC2E1805BB99E1B0",
+                          "doi":  "",
+                          "provenance":  {
+                                             "deposited_date":  "2025-09-24",
+                                             "deposited_by":  "Jordan Crosno"
+                                         },
+                          "pillars":  [
+                                          "Auditability",
+                                          "Transparency"
+                                      ]
+                      }
+                  ],
+    "notes":  "Replace DOI placeholders after Zenodo deposition."
 }
