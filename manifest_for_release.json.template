@@ -1,7 +1,7 @@
-﻿{
+{
   "release": "v1.0",
   "artifacts": [
-    { "name": "release_candidate_v1.pdf", "doi": "doi:10.5281/zenodo.XXXX" },
+    { "name": "release_candidate_v1.pdf", "doi": "doi:10.5281/zenodo.XXXX", "pillars": ["Transparency","Auditability","Due Process"], "doi": "doi:10.5281/zenodo.XXXX" },
     { "name": "starter_pack_v1.zip", "doi": "doi:10.5281/zenodo.XXXX" }
   ],
   "notes": "Replace DOI placeholders after Zenodo deposition."
