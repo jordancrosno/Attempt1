@@ -1,9 +1,19 @@
 ﻿{
-    "release":  "v1.0",
+    "release":  {
+                    "tag":  "v1.0",
+                    "title":  "Verifiable Governance for Public Algorithms - Release Candidate v1.0",
+                    "date":  "2025-09-24",
+                    "original":  "v1.0"
+                },
     "artifacts":  [
                       {
                           "name":  "release_candidate_v1.pdf",
+                          "sha256":  "4C8D640253B4872BF315F70BBF3D7A5338AEBD8972ECB7D79D00687685D0F5E1",
                           "doi":  "doi:10.5281/zenodo.XXXX",
+                          "provenance":  {
+                                             "deposited_date":  "2025-09-24",
+                                             "deposited_by":  "Jordan Crosno"
+                                         },
                           "pillars":  [
                                           "Transparency",
                                           "Auditability",
@@ -12,7 +22,15 @@
                       },
                       {
                           "name":  "starter_pack_v1.zip",
-                          "doi":  ""
+                          "sha256":  "6DB4E41B0E50918BC02E8C77F3E8DE19517264FC3C53CDB6758324888588291A",
+                          "doi":  "",
+                          "provenance":  {
+                                             "deposited_date":  "2025-09-24",
+                                             "deposited_by":  "Jordan Crosno"
+                                         },
+                          "pillars":  {
+
+                                      }
                       },
                       {
                           "name":  "manifest_for_release.json.template",
